@@ -1,0 +1,5 @@
+alias.lg=log --all --decorate --oneline --graph --topo-order --color  --date=relative --pretty="format:%h %Cblue%d%Creset %Cgreen%s%Creset %an %Cblue%ad%Creset"
+alias.co=checkout
+alias.ff=merge --ff-only
+alias.stun=status -s -unormal
+alias.fp=fetch --prune
